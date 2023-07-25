@@ -1,0 +1,10 @@
+com\mycompany\testingweb\HomeController.class
+com\mycompany\testingweb\WebLayerTest.class
+com\mycompany\testingweb\SmokeTest.class
+com\mycompany\testingweb\GreetingService.class
+com\mycompany\testingweb\GreetingController.class
+com\mycompany\testingweb\TestingWebApplicationTests.class
+com\mycompany\testingweb\WebMockTest.class
+com\mycompany\testingweb\HttpRequestTest.class
+com\mycompany\testingweb\TestingWebApplicationTest.class
+com\mycompany\testingweb\TestingWebApplication.class
