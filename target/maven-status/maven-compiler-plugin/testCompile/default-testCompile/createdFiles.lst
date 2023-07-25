@@ -1,4 +1,5 @@
-TestingWebApplicationTest.class
-TestingWebApplicationTests.class
-WebLayerTest.class
-WebMockTest.class
+com\mycompany\testingweb\TestingWebApplicationTests.class
+com\mycompany\testingweb\WebLayerTest.class
+com\mycompany\testingweb\WebMockTest.class
+com\mycompany\testingweb\HttpRequestTest.class
+com\mycompany\testingweb\TestingWebApplicationTest.class

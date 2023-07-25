@@ -1,6 +1,4 @@
 com\mycompany\testingweb\HomeController.class
-com\mycompany\testingweb\SmokeTest.class
 com\mycompany\testingweb\GreetingService.class
-com\mycompany\testingweb\HttpRequestTest.class
 com\mycompany\testingweb\GreetingController.class
 com\mycompany\testingweb\TestingWebApplication.class
